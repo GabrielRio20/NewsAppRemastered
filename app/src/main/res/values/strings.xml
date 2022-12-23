@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsAppRemastered</string>
+    <string-array name="labels_array">
+        <item>Game</item>
+        <item>Film</item>
+        <item>Gadget</item>
+    </string-array>
+</resources>
